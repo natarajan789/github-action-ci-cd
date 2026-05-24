@@ -19,3 +19,4 @@ jobs:
           npm i
           npm run test
           pm2 restart app
+          
